@@ -1,4 +1,4 @@
-# Sorry Notebook ✏️💗
+# Sorry Notebook 
 
 A hand-drawn notebook page that walks her through your apology, one page at a time:
 
